@@ -9,6 +9,7 @@ public class Main {
         numberToWords(65945);
         numberToWords(0);
         numberToWords(-254);
+
         numberToWords(45000);
 
     }
