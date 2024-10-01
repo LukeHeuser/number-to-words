@@ -11,7 +11,6 @@ public class Main {
         numberToWords(-254);
         numberToWords(45000);
 
-
     }
 
     public static void numberToWords(int number) { // Method that prints the digits of an integer in words
